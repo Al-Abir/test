@@ -1,0 +1,52 @@
+mkdir folder_name
+mkdir my_folder
+
+Nested directory
+mkdir -p  nested/demo/example
+
+cat source.txt  display the content
+cp  source.txt  dest.txt
+
+cp -r  source_folder  destination_folder
+cp -r  my_folder   backup_folder
+
+mv  source.txt  dest.txt
+mv   source_folder   destination_path
+mv  my_folder     /home/user/Documents/
+
+touch filename
+touch myfile.txt
+
+rm  destination.txt
+rm -r folder_name
+
+
+
+Alter up arrow down arrow
+Ctrl + shift + down arrow  multiple line shift
+
+
+Ctrl +D  press multiple time select all same tag </a>
+
+Ctrl+p  file show option
+
+F11  full scereen
+
+Ctrl + p  find
+
+Ctrl + h  replace
+
+Ctrl + l  select current line
+
+
+
+
+
+
+Pwd -  current working directory
+
+Ls - directory contents
+
+ls  -l  directory contents details
+ls -a hidden file show
+
